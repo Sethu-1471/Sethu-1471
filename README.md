@@ -9,8 +9,7 @@ Others
 - portfolio: http://sethupathi.herokuapp.com/
 
 
-- 🔭 I’m currently Studying 
-- 🌱 I’m currently learning Advance ReactJS
+- 🔭 Intern at Codingmart technology
 - 😄 Pronouns: He/His/Him
 
 
